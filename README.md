@@ -1,4 +1,4 @@
-#Perguntas de Checagem
+*Perguntas de Checagem
 
 - Qual a principal vantagem do padrão Observer em sistemas reativos?
   - Ele permite que os objetos sejam avisados automaticamente quando algo muda. Assim, quem precisa da informação recebe na hora, sem precisar ficar verificando o tempo todo.
