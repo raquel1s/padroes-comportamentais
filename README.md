@@ -1,0 +1,3 @@
+- Qual a principal vantagem do padrão Observer em sistemas reativos?
+- Por que o Strategy é melhor que muitos if?
+- Dê um exemplo real em que Command seja melhor que apenas chamar métodos diretamente.
